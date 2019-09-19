@@ -1,0 +1,9 @@
+E:\ГИСЫ\Курсац\KursGIS\KursGIS\bin\Debug\KursGIS.exe.config
+E:\ГИСЫ\Курсац\KursGIS\KursGIS\bin\Debug\KursGIS.exe
+E:\ГИСЫ\Курсац\KursGIS\KursGIS\bin\Debug\KursGIS.pdb
+E:\ГИСЫ\Курсац\KursGIS\KursGIS\obj\Debug\KursGIS.csprojResolveAssemblyReference.cache
+E:\ГИСЫ\Курсац\KursGIS\KursGIS\obj\Debug\KursGIS.Form1.resources
+E:\ГИСЫ\Курсац\KursGIS\KursGIS\obj\Debug\KursGIS.Properties.Resources.resources
+E:\ГИСЫ\Курсац\KursGIS\KursGIS\obj\Debug\KursGIS.csproj.GenerateResource.Cache
+E:\ГИСЫ\Курсац\KursGIS\KursGIS\obj\Debug\KursGIS.exe
+E:\ГИСЫ\Курсац\KursGIS\KursGIS\obj\Debug\KursGIS.pdb
